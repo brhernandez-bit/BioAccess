@@ -1,0 +1,6 @@
+{
+  "name": "Control de Acceso Facial - Embarcación",
+  "description": "Control y registro de ingresos de personal a embarcaciones mediante reconocimiento facial y sincronización con Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
